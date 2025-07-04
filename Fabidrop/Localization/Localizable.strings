@@ -1,0 +1,206 @@
+/* 
+  Localizable.strings
+  Fabidrop
+  
+  Created by Fabidrop Team
+*/
+
+// MARK: - General
+"app_name" = "Fabidrop";
+"ok" = "OK";
+"cancel" = "Annuler";
+"close" = "Fermer";
+"save" = "Enregistrer";
+"delete" = "Supprimer";
+"edit" = "Modifier";
+"done" = "Terminé";
+"loading" = "Chargement...";
+"error" = "Erreur";
+"success" = "Succès";
+"warning" = "Attention";
+
+// MARK: - Authentication
+"sign_in" = "Se connecter";
+"sign_up" = "Créer un compte";
+"sign_out" = "Se déconnecter";
+"email" = "Email";
+"password" = "Mot de passe";
+"full_name" = "Nom complet";
+"forgot_password" = "Mot de passe oublié ?";
+"already_have_account" = "Déjà un compte ? Se connecter";
+"no_account" = "Pas de compte ? Créer un compte";
+"sign_in_with_apple" = "Se connecter avec Apple";
+"invalid_credentials" = "Email ou mot de passe incorrect";
+"please_login" = "Vous devez être connecté pour continuer";
+
+// MARK: - Home
+"hello" = "Bonjour, %@";
+"what_are_you_looking_for" = "Que recherchez-vous aujourd'hui ?";
+"search_products" = "Rechercher un produit...";
+"image_search" = "Recherche par image";
+"custom_request" = "Demande personnalisée";
+"trending_products" = "Produits tendance";
+"see_all" = "Voir tout";
+"categories" = "Catégories";
+"nearby_sellers" = "Vendeurs à proximité";
+"no_sellers_nearby" = "Aucun vendeur trouvé à proximité";
+
+// MARK: - Search
+"search_results" = "Résultats de recherche";
+"search_results_count" = "%d résultat(s)";
+"filters" = "Filtres";
+"sort_by" = "Trier par";
+"relevance" = "Pertinence";
+"price_low_to_high" = "Prix croissant";
+"price_high_to_low" = "Prix décroissant";
+"distance" = "Distance";
+"rating" = "Note";
+"no_results" = "Aucun produit trouvé";
+"no_results_message" = "Essayez de modifier vos critères de recherche ou utilisez une demande personnalisée";
+
+// MARK: - Product Categories
+"fashion" = "Mode";
+"beauty" = "Beauté";
+"tech" = "Technologie";
+"home" = "Maison";
+"other" = "Autre";
+
+// MARK: - Products
+"product" = "Produit";
+"products" = "Produits";
+"price" = "Prix";
+"stock" = "Stock";
+"in_stock" = "En stock";
+"out_of_stock" = "Rupture";
+"remaining" = "restant(s)";
+"add_to_cart" = "Ajouter au panier";
+"buy_now" = "Acheter maintenant";
+"product_details" = "Détails du produit";
+"product_description" = "Description du produit";
+
+// MARK: - Sellers
+"seller" = "Vendeur";
+"sellers" = "Vendeurs";
+"seller_profile" = "Profil du vendeur";
+"contact_seller" = "Contacter le vendeur";
+"verified" = "Vérifié";
+"not_verified" = "Non vérifié";
+"location" = "Localisation";
+"rating" = "Note";
+"reviews" = "Avis";
+"about" = "À propos";
+"contact_info" = "Informations de contact";
+
+// MARK: - Custom Request
+"custom_request_title" = "Demande personnalisée";
+"custom_request_description" = "Vous ne trouvez pas le produit que vous cherchez ? Faites-nous part de votre demande et nous vous aiderons à le localiser.";
+"product_description_label" = "Description du produit";
+"product_description_placeholder" = "Décrivez le produit que vous recherchez...";
+"product_photo" = "Photo du produit (optionnel)";
+"add_photo" = "Ajouter une photo";
+"change_photo" = "Changer l'image";
+"submit_request" = "Envoyer la demande";
+"request_sent" = "Demande envoyée !";
+"request_sent_message" = "Votre demande a été envoyée avec succès. Nous vous répondrons dans les 48 heures.";
+"tips_title" = "Conseils pour une meilleure recherche";
+"tip_be_specific" = "Soyez précis dans votre description";
+"tip_mention_brand" = "Mentionnez la marque si possible";
+"tip_photo_helps" = "Une photo aide beaucoup";
+"tip_response_time" = "Réponse sous 48h";
+
+// MARK: - Checkout
+"checkout" = "Commander";
+"order_summary" = "Résumé de la commande";
+"quantity" = "Quantité";
+"subtotal" = "Sous-total";
+"delivery_fee" = "Frais de livraison";
+"total" = "Total";
+"proceed_to_payment" = "Procéder au paiement";
+"order_confirmed" = "Commande confirmée !";
+"order_confirmed_message" = "Votre commande a été confirmée. Vous recevrez des notifications sur l'état de votre commande.";
+
+// MARK: - Delivery
+"delivery_options" = "Options de livraison";
+"delivery_details" = "Détails de livraison";
+"delivery_address" = "Adresse de livraison";
+"phone_number" = "Numéro de téléphone";
+"standard_delivery" = "Standard";
+"express_delivery" = "Express";
+"delivery_time_standard" = "2-3 jours";
+"delivery_time_express" = "24h";
+
+// MARK: - Payment
+"payment_method" = "Mode de paiement";
+"choose_payment_method" = "Choisir le mode de paiement";
+"pay_now" = "Payer maintenant";
+"apple_pay" = "Apple Pay";
+"orange_money" = "Orange Money";
+"wave" = "Wave";
+"payment_successful" = "Paiement réussi";
+"payment_failed" = "Paiement échoué";
+"order_id" = "Numéro de commande";
+
+// MARK: - Notifications
+"notifications" = "Notifications";
+"no_notifications" = "Aucune notification";
+"no_notifications_message" = "Vous recevrez des notifications pour les mises à jour de commandes et les réponses à vos demandes";
+"clear_all" = "Effacer tout";
+"order_update" = "Mise à jour de commande";
+"order_processing" = "Votre commande est en cours de traitement";
+"order_shipped" = "Votre commande a été expédiée";
+"order_delivered" = "Votre commande a été livrée";
+"order_cancelled" = "Votre commande a été annulée";
+"custom_request_response" = "Réponse à votre demande";
+"custom_request_response_message" = "Un vendeur a répondu à votre demande personnalisée";
+"new_deal" = "Nouvelle offre locale";
+"new_deal_message" = "Découvrez: %@";
+
+// MARK: - Location
+"enable_location" = "Enable Location Access";
+"enable_location_message" = "Fabidrop needs access to your location to show you nearby sellers and provide personalized product recommendations.";
+"location_permission_denied" = "Location access denied. Please enable it in Settings to see nearby sellers.";
+"location_required" = "Location access is required to show nearby sellers. Please enable it in Settings.";
+
+// MARK: - Errors
+"network_error" = "Erreur de réseau. Veuillez réessayer.";
+"invalid_input" = "Données invalides. Veuillez vérifier vos informations.";
+"server_error" = "Erreur du serveur. Veuillez réessayer plus tard.";
+"unknown_error" = "Une erreur inattendue s'est produite.";
+"try_again" = "Veuillez réessayer";
+
+// MARK: - Success Messages
+"operation_successful" = "Opération réussie";
+"changes_saved" = "Modifications enregistrées";
+"item_added" = "Élément ajouté";
+"item_removed" = "Élément supprimé";
+
+// MARK: - Validation
+"required_field" = "Ce champ est requis";
+"invalid_email" = "Adresse email invalide";
+"password_too_short" = "Le mot de passe doit contenir au moins 6 caractères";
+"passwords_dont_match" = "Les mots de passe ne correspondent pas";
+
+// MARK: - Time and Date
+"today" = "Aujourd'hui";
+"yesterday" = "Hier";
+"this_week" = "Cette semaine";
+"this_month" = "Ce mois";
+"ago" = "il y a";
+"minutes_ago" = "il y a %d minute(s)";
+"hours_ago" = "il y a %d heure(s)";
+"days_ago" = "il y a %d jour(s)";
+
+// MARK: - Currency
+"currency" = "XOF";
+"price_format" = "%d XOF";
+
+// MARK: - Accessibility
+"accessibility_back_button" = "Retour";
+"accessibility_close_button" = "Fermer";
+"accessibility_search_button" = "Rechercher";
+"accessibility_add_to_cart" = "Ajouter au panier";
+"accessibility_remove_from_cart" = "Retirer du panier";
+"accessibility_rating" = "Note de %d sur 5";
+"accessibility_price" = "Prix %d XOF";
+"accessibility_stock" = "%d en stock";
+"accessibility_out_of_stock" = "Rupture de stock"; 
