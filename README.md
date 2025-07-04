@@ -31,7 +31,7 @@
 
 ### 1. Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/fabidrop-ios.git
+$ git clone https://github.com/utachicodes/fabidrop-ios.git
 $ cd fabidrop-ios
 ```
 
