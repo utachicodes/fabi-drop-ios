@@ -31,7 +31,7 @@
 
 ### 1. Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/fabidrop-ios.git
+$ git clone https://github.com/utachicodes/fabidrop-ios.git
 $ cd fabidrop-ios
 ```
 
@@ -105,7 +105,7 @@ Fabidrop/
 
 ## Credits
 
-- Design & Development: [Your Name]
+- Design & Development: Abdoullah Ndao ([utachicodes](https://github.com/utachicodes))
 - Inspired by Senegalese youth, local sellers, and the vibrant social shopping scene
 
 ---
