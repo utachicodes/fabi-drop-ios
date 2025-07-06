@@ -108,16 +108,3 @@ Fabidrop/
 - Design & Development: Abdoullah Ndao ([utachicodes](https://github.com/utachicodes))
 - Inspired by Senegalese youth, local sellers, and the vibrant social shopping scene
 
----
-
-## Roadmap
-
-- [ ] Backend integration (Firebase, Stripe, Vision API)
-- [ ] Wolof localization
-- [ ] Advanced analytics & crash reporting
-- [ ] UI/UX polish & accessibility improvements
-- [ ] App Store launch
-
----
-
-**Fabidrop — Social shopping, local power.** 
